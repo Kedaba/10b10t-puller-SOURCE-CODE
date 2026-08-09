@@ -54,3 +54,13 @@ your ALT looks for when your main whispers to it, "p" in the console.
 that triggers code that looks for the nearest opened trapdoor of the type specified in the config, then briefly closes and opens that trapdoor
 
 it also takes the cracked password from the alts config and puts it in front of /login when you join
+
+## if you want to be sure:
+
+if you want to be sure this is not a RAT (remote access trojan) or any other harmful malware, you can look through the code and then recompile it to compare it with this hash:
+
+'''
+4ebbb869b8f67fa76561b63b0b9e40817a481aa645bd019b2c06b3c9e12f4339
+'''
+
+this is the hash of the mod on the modrinth page and it will update as i update this project (current version: 1.0.0, last edited: 8/8/2026 @ 7:26 pm CST)
