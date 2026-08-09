@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "trapdoor-pulse-client",
+	"version": "1.0.0",
+	"name": "Trapdoor Pulse (Client)",
+	"description": "Watches configured players' whispers and clicks the matching trapdoor closed then open again. See config/trapdoor-pulse-client.json.",
+	"authors": [
+		"you"
+	],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.example.trapdoorpulseclient.TrapdoorPulseClientMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
