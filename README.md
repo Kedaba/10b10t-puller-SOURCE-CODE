@@ -54,8 +54,3 @@ your ALT looks for when your main whispers to it, "p" in the console.
 that triggers code that looks for the nearest opened trapdoor of the type specified in the config, then briefly closes and opens that trapdoor
 
 it also takes the cracked password from the alts config and puts it in front of /login when you join
-What you can do with this:
-
-Since i used the ARR (all rights reserved) licence, it gives me all rights unless explitly stated, you MAY use this on any client you like, or take insperation from this to make another mod to work with your own server.
-
-you may NOT try to parse the data in any way, or abuse it in an unjustified way, and please ask me on 10b10t if you have any questions about use. thanks! -Muck_Foyang
